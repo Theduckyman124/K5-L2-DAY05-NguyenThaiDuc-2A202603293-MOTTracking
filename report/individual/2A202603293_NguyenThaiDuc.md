@@ -6,10 +6,10 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Mã đề (A/B/C):
-- Email:
+- Họ tên: Nguyễn Thái Đức 
+- MSSV: 2A202603293
+- Mã đề (A/B/C): A
+- Email: nguyenthaiduc01022004@gmail.com
 - Link repository:
 - Giờ bắt đầu:
 - Giờ kết thúc:
